@@ -1,11 +1,15 @@
-# Spryker Commerce OS
+# Csv Module
 
-## Core Modules
+**This module is not continued at this point.**
 
-[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/spryker/spryker-core/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/spryker/spryker-core/?branch=master)
+Please use league/csv and its classes directly.
 
-### Links
-- **[Spryker Documentation](https://academy.spryker.com/)**
-- [Spryker Architecture-Sniffer](https://github.com/spryker/architecture-sniffer)
-- [Spryker Code-Sniffer](https://github.com/spryker/code-sniffer)
-- [Spryker Code-Generator](https://github.com/spryker/code-generator)
+## Installation
+
+```
+composer require spryker/csv
+```
+
+## Documentation
+
+[Documentation](https://spryker.github.io)

@@ -1,8 +1,0 @@
-{% for payment in quoteTransfer.payments %}
-    {% if payment.giftCard is null %}
-        <div>
-            {{ payment.paymentMethod }}
-            <span>- {{ payment.amount | money }}</span>
-        </div>
-    {% endif %}
-{% endfor %}
